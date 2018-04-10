@@ -1,0 +1,36 @@
+body {
+    background-color: #FA8072;
+}
+
+input {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 300px;
+}
+
+#output {
+    margin-top: 45px;
+    width: 100px;
+    background: lightgreen;
+    margin-left: 400px;
+}
+
+#btn {
+    width: 350px;
+    height: 80px;
+    color: #fff;
+    background-color: rgba(50, 57, 224, 0.87);
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 280px;
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+    margin-top: 50px;
+}
